@@ -1,0 +1,47 @@
+C:\Users\simoa\OneDrive\Desktop\spotify api JAM\bin\Debug\net8.0\spotify api JAM.exe
+C:\Users\simoa\OneDrive\Desktop\spotify api JAM\bin\Debug\net8.0\spotify api JAM.deps.json
+C:\Users\simoa\OneDrive\Desktop\spotify api JAM\bin\Debug\net8.0\spotify api JAM.runtimeconfig.json
+C:\Users\simoa\OneDrive\Desktop\spotify api JAM\bin\Debug\net8.0\spotify api JAM.dll
+C:\Users\simoa\OneDrive\Desktop\spotify api JAM\bin\Debug\net8.0\spotify api JAM.pdb
+C:\Users\simoa\OneDrive\Desktop\spotify api JAM\bin\Debug\net8.0\EmbedIO.dll
+C:\Users\simoa\OneDrive\Desktop\spotify api JAM\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\simoa\OneDrive\Desktop\spotify api JAM\bin\Debug\net8.0\RestSharp.dll
+C:\Users\simoa\OneDrive\Desktop\spotify api JAM\bin\Debug\net8.0\SpotifyAPI.Web.dll
+C:\Users\simoa\OneDrive\Desktop\spotify api JAM\bin\Debug\net8.0\SpotifyAPI.Web.Auth.dll
+C:\Users\simoa\OneDrive\Desktop\spotify api JAM\bin\Debug\net8.0\Swan.Lite.dll
+C:\Users\simoa\OneDrive\Desktop\spotify api JAM\obj\Debug\net8.0\spotify api JAM.csproj.AssemblyReference.cache
+C:\Users\simoa\OneDrive\Desktop\spotify api JAM\obj\Debug\net8.0\spotify api JAM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simoa\OneDrive\Desktop\spotify api JAM\obj\Debug\net8.0\spotify api JAM.AssemblyInfoInputs.cache
+C:\Users\simoa\OneDrive\Desktop\spotify api JAM\obj\Debug\net8.0\spotify api JAM.AssemblyInfo.cs
+C:\Users\simoa\OneDrive\Desktop\spotify api JAM\obj\Debug\net8.0\spotify api JAM.csproj.CoreCompileInputs.cache
+C:\Users\simoa\OneDrive\Desktop\spotify api JAM\obj\Debug\net8.0\spotify .A5952E46.Up2Date
+C:\Users\simoa\OneDrive\Desktop\spotify api JAM\obj\Debug\net8.0\spotify api JAM.dll
+C:\Users\simoa\OneDrive\Desktop\spotify api JAM\obj\Debug\net8.0\refint\spotify api JAM.dll
+C:\Users\simoa\OneDrive\Desktop\spotify api JAM\obj\Debug\net8.0\spotify api JAM.pdb
+C:\Users\simoa\OneDrive\Desktop\spotify api JAM\obj\Debug\net8.0\spotify api JAM.genruntimeconfig.cache
+C:\Users\simoa\OneDrive\Desktop\spotify api JAM\obj\Debug\net8.0\ref\spotify api JAM.dll
+C:\Users\simoa\OneDrive\Desktop\API template code\bin\Debug\net8.0\spotify api JAM.exe
+C:\Users\simoa\OneDrive\Desktop\API template code\bin\Debug\net8.0\spotify api JAM.deps.json
+C:\Users\simoa\OneDrive\Desktop\API template code\bin\Debug\net8.0\spotify api JAM.runtimeconfig.json
+C:\Users\simoa\OneDrive\Desktop\API template code\bin\Debug\net8.0\spotify api JAM.dll
+C:\Users\simoa\OneDrive\Desktop\API template code\bin\Debug\net8.0\spotify api JAM.pdb
+C:\Users\simoa\OneDrive\Desktop\API template code\bin\Debug\net8.0\EmbedIO.dll
+C:\Users\simoa\OneDrive\Desktop\API template code\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\simoa\OneDrive\Desktop\API template code\bin\Debug\net8.0\RestSharp.dll
+C:\Users\simoa\OneDrive\Desktop\API template code\bin\Debug\net8.0\SpotifyAPI.Web.dll
+C:\Users\simoa\OneDrive\Desktop\API template code\bin\Debug\net8.0\SpotifyAPI.Web.Auth.dll
+C:\Users\simoa\OneDrive\Desktop\API template code\bin\Debug\net8.0\Swan.Lite.dll
+C:\Users\simoa\OneDrive\Desktop\API template code\obj\Debug\net8.0\spotify api JAM.csproj.AssemblyReference.cache
+C:\Users\simoa\OneDrive\Desktop\API template code\obj\Debug\net8.0\spotify api JAM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simoa\OneDrive\Desktop\API template code\obj\Debug\net8.0\spotify api JAM.AssemblyInfoInputs.cache
+C:\Users\simoa\OneDrive\Desktop\API template code\obj\Debug\net8.0\spotify api JAM.AssemblyInfo.cs
+C:\Users\simoa\OneDrive\Desktop\API template code\obj\Debug\net8.0\spotify api JAM.csproj.CoreCompileInputs.cache
+C:\Users\simoa\OneDrive\Desktop\API template code\obj\Debug\net8.0\spotify .A5952E46.Up2Date
+C:\Users\simoa\OneDrive\Desktop\API template code\obj\Debug\net8.0\spotify api JAM.dll
+C:\Users\simoa\OneDrive\Desktop\API template code\obj\Debug\net8.0\refint\spotify api JAM.dll
+C:\Users\simoa\OneDrive\Desktop\API template code\obj\Debug\net8.0\spotify api JAM.pdb
+C:\Users\simoa\OneDrive\Desktop\API template code\obj\Debug\net8.0\spotify api JAM.genruntimeconfig.cache
+C:\Users\simoa\OneDrive\Desktop\API template code\obj\Debug\net8.0\ref\spotify api JAM.dll
+C:\Users\simoa\OneDrive\Desktop\spotify\SpotifyAPI\obj\Debug\net8.0\spotify api JAM.dll
+C:\Users\simoa\OneDrive\Desktop\spotify\SpotifyAPI\obj\Debug\net8.0\refint\spotify api JAM.dll
+C:\Users\simoa\OneDrive\Desktop\spotify\SpotifyAPI\obj\Debug\net8.0\spotify api JAM.pdb
